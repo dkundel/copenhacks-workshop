@@ -1,0 +1,25 @@
+{
+  "name": "copenhacks",
+  "version": "1.0.0",
+  "description": "Twilio Workshop at CopenHacks 2017",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:dkundel/copenhacks-workshop.git",
+    "type": "git"
+  },
+  "author": "Dominik Kundel <dominik.kundel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "sillyname": "^0.1.0",
+    "twilio": "3.0.0-rc.16"
+  },
+  "devDependencies": {
+    "node-env-run": "^1.0.0--alpha2"
+  },
+  "scripts": {
+    "start": "node-env-run ."
+  }
+}
