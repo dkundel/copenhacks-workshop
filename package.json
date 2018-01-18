@@ -14,7 +14,7 @@
     "dotenv": "^4.0.0",
     "express": "^4.15.2",
     "sillyname": "^0.1.0",
-    "twilio": "3.0.0-rc.16"
+    "twilio": "3.5.0"
   },
   "devDependencies": {
     "node-env-run": "^1.0.0--alpha2"
